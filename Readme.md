@@ -25,3 +25,6 @@
 - --Route function = controller.ts
 - --Database query function = service.ts
 - \*/
+
+----------
+### Route --> Controller --> Service
