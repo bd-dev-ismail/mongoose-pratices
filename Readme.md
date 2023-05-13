@@ -28,3 +28,5 @@
 
 ----------
 ### Route --> Controller --> Service
+
+# Class --> attached --> Method = Directly Call using class
